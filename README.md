@@ -1,7 +1,8 @@
 # Vertical Slider
 
+Basic html css project
 
-This is a Vertical Slider created using HTML, CSS and Javascripy
+This is a Vertical Slider created using HTML, CSS and Javascript
 
 A Basic Project for New Beginners to contribute for the Hacktober Fest.
 
